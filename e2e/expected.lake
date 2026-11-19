@@ -1,1 +1,4 @@
 miss|bank-of-japan|4
+served|bank-of-japan:boj_fx|1|1|USD|meridian.v1.Price.basis,meridian.v1.Price.benchmark_instrument_id,meridian.v1.Price.confidence,meridian.v1.Price.kind,meridian.v1.Price.meta,meridian.v1.Price.price,meridian.v1.Price.spread_bps,meridian.v1.Price.yield|reader
+want|bank-of-japan:boj_fx|answered|USD|0
+want|bank-of-japan:boj_fx|asked|USD|0

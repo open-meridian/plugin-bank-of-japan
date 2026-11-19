@@ -12,12 +12,11 @@ committed with the plugin, every value synthetic.
 
 ## Telling the Bank
 
-The Bank's API notice asks whoever releases a service using its API to
-notify its Research and Statistics Department by e-mail
-(post.rsd17@boj.or.jp, subject "[Release of the service using the API]"),
-and to show its credit where the service's users can find it ([terms](terms.md)).
-If your deployment serves these data to anyone, that is yours to do: the
-plugin sends nothing to the Bank.
+The Bank's API notice asks a service released using its API to notify the
+Bank's Research and Statistics Department and to show its credit where the
+service's users can find it ([terms](terms.md)). If a deployment serves these
+data to anyone, that is for the deployment's administrator to do: the plugin
+sends nothing to the Bank.
 
 ## Its datasets
 

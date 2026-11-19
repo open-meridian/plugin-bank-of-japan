@@ -16,7 +16,7 @@ def test_two_datasets_rates_and_prices() -> None:
         assert dataset.day_time_zone == "Asia/Tokyo" and dataset.vendor == "Bank of Japan"
         assert dataset.gap_recovery == "backfill" and not dataset.calendar_id
         said = dataset.terms_and_pricing
-        assert "commercial purposes" in said and "post.rsd17@boj.or.jp" in said
+        assert "commercial purposes" in said and "Research and Statistics Department" in said
         assert "Bank of Japan Time-Series Data Search" in said and len(said) <= 2000
 
 

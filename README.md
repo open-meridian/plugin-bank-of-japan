@@ -50,10 +50,10 @@ has recorded the Bank's permission.
 
 The Bank's API notice
 ([Notice Regarding the Use of the API Service](https://www.stat-search.boj.or.jp/info/api_notice_en.pdf))
-asks whoever releases a service using the API to notify its Research and
-Statistics Department by e-mail (post.rsd17@boj.or.jp, subject "[Release of
-the service using the API]"), and to show this credit where the service's
-users can find it:
+asks a service released using the API to notify the Bank's Research and
+Statistics Department and to show this credit where the service's users can
+find it. That is for the deployment's administrator to do; the plugin sends
+nothing to the Bank. The credit reads:
 
 > This service uses the API provided by the "Bank of Japan Time-Series Data
 > Search." The Bank of Japan does not guarantee the content of the service.
