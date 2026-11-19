@@ -1,0 +1,73 @@
+STATUS,200
+MESSAGEID,M181000I
+MESSAGE,Successfully completed
+DATE,2026-11-19T09:30:00.000+09:00
+PARAMETER,FORMAT,CSV
+PARAMETER,LANG,EN
+PARAMETER,DB,IR01
+PARAMETER,STARTDATE,202610
+PARAMETER,ENDDATE,202611
+PARAMETER,STARTPOSITION,
+NEXTPOSITION,
+SERIES_CODE,NAME_OF_TIME_SERIES,UNIT,FREQUENCY,CATEGORY,LAST_UPDATE,SURVEY_DATES,VALUES
+MADR1Z@D,The Basic Discount Rate and Basic Loan Rate,Percent per annum,DAILY,The Basic Discount Rates and Basic Loan Rates,20261119,20261001,0.75
+MADR1Z@D,The Basic Discount Rate and Basic Loan Rate,Percent per annum,DAILY,The Basic Discount Rates and Basic Loan Rates,20261119,20261002,0.75
+MADR1Z@D,The Basic Discount Rate and Basic Loan Rate,Percent per annum,DAILY,The Basic Discount Rates and Basic Loan Rates,20261119,20261003,0.75
+MADR1Z@D,The Basic Discount Rate and Basic Loan Rate,Percent per annum,DAILY,The Basic Discount Rates and Basic Loan Rates,20261119,20261004,0.75
+MADR1Z@D,The Basic Discount Rate and Basic Loan Rate,Percent per annum,DAILY,The Basic Discount Rates and Basic Loan Rates,20261119,20261005,0.75
+MADR1Z@D,The Basic Discount Rate and Basic Loan Rate,Percent per annum,DAILY,The Basic Discount Rates and Basic Loan Rates,20261119,20261006,0.75
+MADR1Z@D,The Basic Discount Rate and Basic Loan Rate,Percent per annum,DAILY,The Basic Discount Rates and Basic Loan Rates,20261119,20261007,0.75
+MADR1Z@D,The Basic Discount Rate and Basic Loan Rate,Percent per annum,DAILY,The Basic Discount Rates and Basic Loan Rates,20261119,20261008,0.75
+MADR1Z@D,The Basic Discount Rate and Basic Loan Rate,Percent per annum,DAILY,The Basic Discount Rates and Basic Loan Rates,20261119,20261009,0.75
+MADR1Z@D,The Basic Discount Rate and Basic Loan Rate,Percent per annum,DAILY,The Basic Discount Rates and Basic Loan Rates,20261119,20261010,0.75
+MADR1Z@D,The Basic Discount Rate and Basic Loan Rate,Percent per annum,DAILY,The Basic Discount Rates and Basic Loan Rates,20261119,20261011,0.75
+MADR1Z@D,The Basic Discount Rate and Basic Loan Rate,Percent per annum,DAILY,The Basic Discount Rates and Basic Loan Rates,20261119,20261012,0.75
+MADR1Z@D,The Basic Discount Rate and Basic Loan Rate,Percent per annum,DAILY,The Basic Discount Rates and Basic Loan Rates,20261119,20261013,0.75
+MADR1Z@D,The Basic Discount Rate and Basic Loan Rate,Percent per annum,DAILY,The Basic Discount Rates and Basic Loan Rates,20261119,20261014,0.75
+MADR1Z@D,The Basic Discount Rate and Basic Loan Rate,Percent per annum,DAILY,The Basic Discount Rates and Basic Loan Rates,20261119,20261015,0.75
+MADR1Z@D,The Basic Discount Rate and Basic Loan Rate,Percent per annum,DAILY,The Basic Discount Rates and Basic Loan Rates,20261119,20261016,0.75
+MADR1Z@D,The Basic Discount Rate and Basic Loan Rate,Percent per annum,DAILY,The Basic Discount Rates and Basic Loan Rates,20261119,20261017,0.75
+MADR1Z@D,The Basic Discount Rate and Basic Loan Rate,Percent per annum,DAILY,The Basic Discount Rates and Basic Loan Rates,20261119,20261018,0.75
+MADR1Z@D,The Basic Discount Rate and Basic Loan Rate,Percent per annum,DAILY,The Basic Discount Rates and Basic Loan Rates,20261119,20261019,0.75
+MADR1Z@D,The Basic Discount Rate and Basic Loan Rate,Percent per annum,DAILY,The Basic Discount Rates and Basic Loan Rates,20261119,20261020,0.75
+MADR1Z@D,The Basic Discount Rate and Basic Loan Rate,Percent per annum,DAILY,The Basic Discount Rates and Basic Loan Rates,20261119,20261021,0.75
+MADR1Z@D,The Basic Discount Rate and Basic Loan Rate,Percent per annum,DAILY,The Basic Discount Rates and Basic Loan Rates,20261119,20261022,0.75
+MADR1Z@D,The Basic Discount Rate and Basic Loan Rate,Percent per annum,DAILY,The Basic Discount Rates and Basic Loan Rates,20261119,20261023,0.75
+MADR1Z@D,The Basic Discount Rate and Basic Loan Rate,Percent per annum,DAILY,The Basic Discount Rates and Basic Loan Rates,20261119,20261024,0.75
+MADR1Z@D,The Basic Discount Rate and Basic Loan Rate,Percent per annum,DAILY,The Basic Discount Rates and Basic Loan Rates,20261119,20261025,0.75
+MADR1Z@D,The Basic Discount Rate and Basic Loan Rate,Percent per annum,DAILY,The Basic Discount Rates and Basic Loan Rates,20261119,20261026,0.75
+MADR1Z@D,The Basic Discount Rate and Basic Loan Rate,Percent per annum,DAILY,The Basic Discount Rates and Basic Loan Rates,20261119,20261027,0.75
+MADR1Z@D,The Basic Discount Rate and Basic Loan Rate,Percent per annum,DAILY,The Basic Discount Rates and Basic Loan Rates,20261119,20261028,0.75
+MADR1Z@D,The Basic Discount Rate and Basic Loan Rate,Percent per annum,DAILY,The Basic Discount Rates and Basic Loan Rates,20261119,20261029,0.75
+MADR1Z@D,The Basic Discount Rate and Basic Loan Rate,Percent per annum,DAILY,The Basic Discount Rates and Basic Loan Rates,20261119,20261030,0.75
+MADR1Z@D,The Basic Discount Rate and Basic Loan Rate,Percent per annum,DAILY,The Basic Discount Rates and Basic Loan Rates,20261119,20261031,0.75
+MADR1Z@D,The Basic Discount Rate and Basic Loan Rate,Percent per annum,DAILY,The Basic Discount Rates and Basic Loan Rates,20261119,20261101,0.75
+MADR1Z@D,The Basic Discount Rate and Basic Loan Rate,Percent per annum,DAILY,The Basic Discount Rates and Basic Loan Rates,20261119,20261102,0.75
+MADR1Z@D,The Basic Discount Rate and Basic Loan Rate,Percent per annum,DAILY,The Basic Discount Rates and Basic Loan Rates,20261119,20261103,0.75
+MADR1Z@D,The Basic Discount Rate and Basic Loan Rate,Percent per annum,DAILY,The Basic Discount Rates and Basic Loan Rates,20261119,20261104,0.75
+MADR1Z@D,The Basic Discount Rate and Basic Loan Rate,Percent per annum,DAILY,The Basic Discount Rates and Basic Loan Rates,20261119,20261105,0.75
+MADR1Z@D,The Basic Discount Rate and Basic Loan Rate,Percent per annum,DAILY,The Basic Discount Rates and Basic Loan Rates,20261119,20261106,0.75
+MADR1Z@D,The Basic Discount Rate and Basic Loan Rate,Percent per annum,DAILY,The Basic Discount Rates and Basic Loan Rates,20261119,20261107,0.75
+MADR1Z@D,The Basic Discount Rate and Basic Loan Rate,Percent per annum,DAILY,The Basic Discount Rates and Basic Loan Rates,20261119,20261108,0.75
+MADR1Z@D,The Basic Discount Rate and Basic Loan Rate,Percent per annum,DAILY,The Basic Discount Rates and Basic Loan Rates,20261119,20261109,0.75
+MADR1Z@D,The Basic Discount Rate and Basic Loan Rate,Percent per annum,DAILY,The Basic Discount Rates and Basic Loan Rates,20261119,20261110,0.75
+MADR1Z@D,The Basic Discount Rate and Basic Loan Rate,Percent per annum,DAILY,The Basic Discount Rates and Basic Loan Rates,20261119,20261111,0.75
+MADR1Z@D,The Basic Discount Rate and Basic Loan Rate,Percent per annum,DAILY,The Basic Discount Rates and Basic Loan Rates,20261119,20261112,0.75
+MADR1Z@D,The Basic Discount Rate and Basic Loan Rate,Percent per annum,DAILY,The Basic Discount Rates and Basic Loan Rates,20261119,20261113,0.75
+MADR1Z@D,The Basic Discount Rate and Basic Loan Rate,Percent per annum,DAILY,The Basic Discount Rates and Basic Loan Rates,20261119,20261114,0.75
+MADR1Z@D,The Basic Discount Rate and Basic Loan Rate,Percent per annum,DAILY,The Basic Discount Rates and Basic Loan Rates,20261119,20261115,0.75
+MADR1Z@D,The Basic Discount Rate and Basic Loan Rate,Percent per annum,DAILY,The Basic Discount Rates and Basic Loan Rates,20261119,20261116,0.75
+MADR1Z@D,The Basic Discount Rate and Basic Loan Rate,Percent per annum,DAILY,The Basic Discount Rates and Basic Loan Rates,20261119,20261117,0.75
+MADR1Z@D,The Basic Discount Rate and Basic Loan Rate,Percent per annum,DAILY,The Basic Discount Rates and Basic Loan Rates,20261119,20261118,null
+MADR1Z@D,The Basic Discount Rate and Basic Loan Rate,Percent per annum,DAILY,The Basic Discount Rates and Basic Loan Rates,20261119,20261119,null
+MADR1Z@D,The Basic Discount Rate and Basic Loan Rate,Percent per annum,DAILY,The Basic Discount Rates and Basic Loan Rates,20261119,20261120,null
+MADR1Z@D,The Basic Discount Rate and Basic Loan Rate,Percent per annum,DAILY,The Basic Discount Rates and Basic Loan Rates,20261119,20261121,null
+MADR1Z@D,The Basic Discount Rate and Basic Loan Rate,Percent per annum,DAILY,The Basic Discount Rates and Basic Loan Rates,20261119,20261122,null
+MADR1Z@D,The Basic Discount Rate and Basic Loan Rate,Percent per annum,DAILY,The Basic Discount Rates and Basic Loan Rates,20261119,20261123,null
+MADR1Z@D,The Basic Discount Rate and Basic Loan Rate,Percent per annum,DAILY,The Basic Discount Rates and Basic Loan Rates,20261119,20261124,null
+MADR1Z@D,The Basic Discount Rate and Basic Loan Rate,Percent per annum,DAILY,The Basic Discount Rates and Basic Loan Rates,20261119,20261125,null
+MADR1Z@D,The Basic Discount Rate and Basic Loan Rate,Percent per annum,DAILY,The Basic Discount Rates and Basic Loan Rates,20261119,20261126,null
+MADR1Z@D,The Basic Discount Rate and Basic Loan Rate,Percent per annum,DAILY,The Basic Discount Rates and Basic Loan Rates,20261119,20261127,null
+MADR1Z@D,The Basic Discount Rate and Basic Loan Rate,Percent per annum,DAILY,The Basic Discount Rates and Basic Loan Rates,20261119,20261128,null
+MADR1Z@D,The Basic Discount Rate and Basic Loan Rate,Percent per annum,DAILY,The Basic Discount Rates and Basic Loan Rates,20261119,20261129,null
+MADR1Z@D,The Basic Discount Rate and Basic Loan Rate,Percent per annum,DAILY,The Basic Discount Rates and Basic Loan Rates,20261119,20261130,null

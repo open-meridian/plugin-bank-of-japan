@@ -1,0 +1,13 @@
+meridian-bank-of-japan
+Copyright 2026 Societal Lab Inc.
+
+Licensed under the Apache License, Version 2.0. See LICENSE.
+
+The data this plugin reads are the Bank of Japan's, published through BOJ
+Time-Series Data Search. Source: Bank of Japan. This service uses the API
+provided by the "Bank of Japan Time-Series Data Search." The Bank of Japan
+does not guarantee the content of the service. Copying or reproducing the
+Bank's data for commercial purposes needs the Bank's prior permission.
+The answers committed under src/bank_of_japan/responses/ carry the Bank's
+layout with synthetic values, not the Bank's data.
+This project is not affiliated with or endorsed by the Bank of Japan.
