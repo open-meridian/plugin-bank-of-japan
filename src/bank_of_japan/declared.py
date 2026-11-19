@@ -68,7 +68,9 @@ BOJ_TERMS = (
     "commercial purposes, which need the prior permission of the Bank's Research and "
     "Statistics Department; its contents may not be altered without the Bank's prior "
     "permission. The Bank's API notice asks a service released using the API to notify the "
-    "Research and Statistics Department and to show the credit: " + CREDIT + " Excessive access is prohibited; "
+    "Research and Statistics Department and to show the credit: "
+    + CREDIT
+    + " Excessive access is prohibited; "
     "the Bank may limit access under load, and suspend or change the API without notice. "
     "Its licence default is served, not kept (ruling 132): the plugin pulls these data only "
     "when wanted and keeps none of them; whether the lake keeps its rows is the deployment "
