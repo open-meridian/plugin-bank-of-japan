@@ -1,0 +1,134 @@
+STATUS,200
+MESSAGEID,M181000I
+MESSAGE,Successfully completed
+DATE,2026-11-19T09:30:00.000+09:00
+PARAMETER,FORMAT,CSV
+PARAMETER,LANG,EN
+PARAMETER,DB,FM08
+PARAMETER,STARTDATE,202610
+PARAMETER,ENDDATE,202611
+PARAMETER,STARTPOSITION,
+NEXTPOSITION,
+SERIES_CODE,NAME_OF_TIME_SERIES,UNIT,FREQUENCY,CATEGORY,LAST_UPDATE,SURVEY_DATES,VALUES
+FXERD04,"US.Dollar/Yen Spot Rate at 17:00 in JST, Tokyo Market",Yen per U.S. Dollar,DAILY,Foreign Exchange Rates,20261119,20261001,149.49
+FXERD04,"US.Dollar/Yen Spot Rate at 17:00 in JST, Tokyo Market",Yen per U.S. Dollar,DAILY,Foreign Exchange Rates,20261119,20261002,150.00
+FXERD04,"US.Dollar/Yen Spot Rate at 17:00 in JST, Tokyo Market",Yen per U.S. Dollar,DAILY,Foreign Exchange Rates,20261119,20261003,null
+FXERD04,"US.Dollar/Yen Spot Rate at 17:00 in JST, Tokyo Market",Yen per U.S. Dollar,DAILY,Foreign Exchange Rates,20261119,20261004,null
+FXERD04,"US.Dollar/Yen Spot Rate at 17:00 in JST, Tokyo Market",Yen per U.S. Dollar,DAILY,Foreign Exchange Rates,20261119,20261005,150.51
+FXERD04,"US.Dollar/Yen Spot Rate at 17:00 in JST, Tokyo Market",Yen per U.S. Dollar,DAILY,Foreign Exchange Rates,20261119,20261006,149.83
+FXERD04,"US.Dollar/Yen Spot Rate at 17:00 in JST, Tokyo Market",Yen per U.S. Dollar,DAILY,Foreign Exchange Rates,20261119,20261007,150.34
+FXERD04,"US.Dollar/Yen Spot Rate at 17:00 in JST, Tokyo Market",Yen per U.S. Dollar,DAILY,Foreign Exchange Rates,20261119,20261008,149.66
+FXERD04,"US.Dollar/Yen Spot Rate at 17:00 in JST, Tokyo Market",Yen per U.S. Dollar,DAILY,Foreign Exchange Rates,20261119,20261009,150.17
+FXERD04,"US.Dollar/Yen Spot Rate at 17:00 in JST, Tokyo Market",Yen per U.S. Dollar,DAILY,Foreign Exchange Rates,20261119,20261010,null
+FXERD04,"US.Dollar/Yen Spot Rate at 17:00 in JST, Tokyo Market",Yen per U.S. Dollar,DAILY,Foreign Exchange Rates,20261119,20261011,null
+FXERD04,"US.Dollar/Yen Spot Rate at 17:00 in JST, Tokyo Market",Yen per U.S. Dollar,DAILY,Foreign Exchange Rates,20261119,20261012,null
+FXERD04,"US.Dollar/Yen Spot Rate at 17:00 in JST, Tokyo Market",Yen per U.S. Dollar,DAILY,Foreign Exchange Rates,20261119,20261013,149.49
+FXERD04,"US.Dollar/Yen Spot Rate at 17:00 in JST, Tokyo Market",Yen per U.S. Dollar,DAILY,Foreign Exchange Rates,20261119,20261014,150.00
+FXERD04,"US.Dollar/Yen Spot Rate at 17:00 in JST, Tokyo Market",Yen per U.S. Dollar,DAILY,Foreign Exchange Rates,20261119,20261015,150.51
+FXERD04,"US.Dollar/Yen Spot Rate at 17:00 in JST, Tokyo Market",Yen per U.S. Dollar,DAILY,Foreign Exchange Rates,20261119,20261016,149.83
+FXERD04,"US.Dollar/Yen Spot Rate at 17:00 in JST, Tokyo Market",Yen per U.S. Dollar,DAILY,Foreign Exchange Rates,20261119,20261017,null
+FXERD04,"US.Dollar/Yen Spot Rate at 17:00 in JST, Tokyo Market",Yen per U.S. Dollar,DAILY,Foreign Exchange Rates,20261119,20261018,null
+FXERD04,"US.Dollar/Yen Spot Rate at 17:00 in JST, Tokyo Market",Yen per U.S. Dollar,DAILY,Foreign Exchange Rates,20261119,20261019,150.34
+FXERD04,"US.Dollar/Yen Spot Rate at 17:00 in JST, Tokyo Market",Yen per U.S. Dollar,DAILY,Foreign Exchange Rates,20261119,20261020,149.66
+FXERD04,"US.Dollar/Yen Spot Rate at 17:00 in JST, Tokyo Market",Yen per U.S. Dollar,DAILY,Foreign Exchange Rates,20261119,20261021,150.17
+FXERD04,"US.Dollar/Yen Spot Rate at 17:00 in JST, Tokyo Market",Yen per U.S. Dollar,DAILY,Foreign Exchange Rates,20261119,20261022,149.49
+FXERD04,"US.Dollar/Yen Spot Rate at 17:00 in JST, Tokyo Market",Yen per U.S. Dollar,DAILY,Foreign Exchange Rates,20261119,20261023,150.00
+FXERD04,"US.Dollar/Yen Spot Rate at 17:00 in JST, Tokyo Market",Yen per U.S. Dollar,DAILY,Foreign Exchange Rates,20261119,20261024,null
+FXERD04,"US.Dollar/Yen Spot Rate at 17:00 in JST, Tokyo Market",Yen per U.S. Dollar,DAILY,Foreign Exchange Rates,20261119,20261025,null
+FXERD04,"US.Dollar/Yen Spot Rate at 17:00 in JST, Tokyo Market",Yen per U.S. Dollar,DAILY,Foreign Exchange Rates,20261119,20261026,150.51
+FXERD04,"US.Dollar/Yen Spot Rate at 17:00 in JST, Tokyo Market",Yen per U.S. Dollar,DAILY,Foreign Exchange Rates,20261119,20261027,149.83
+FXERD04,"US.Dollar/Yen Spot Rate at 17:00 in JST, Tokyo Market",Yen per U.S. Dollar,DAILY,Foreign Exchange Rates,20261119,20261028,150.34
+FXERD04,"US.Dollar/Yen Spot Rate at 17:00 in JST, Tokyo Market",Yen per U.S. Dollar,DAILY,Foreign Exchange Rates,20261119,20261029,149.66
+FXERD04,"US.Dollar/Yen Spot Rate at 17:00 in JST, Tokyo Market",Yen per U.S. Dollar,DAILY,Foreign Exchange Rates,20261119,20261030,150.17
+FXERD04,"US.Dollar/Yen Spot Rate at 17:00 in JST, Tokyo Market",Yen per U.S. Dollar,DAILY,Foreign Exchange Rates,20261119,20261031,null
+FXERD04,"US.Dollar/Yen Spot Rate at 17:00 in JST, Tokyo Market",Yen per U.S. Dollar,DAILY,Foreign Exchange Rates,20261119,20261101,null
+FXERD04,"US.Dollar/Yen Spot Rate at 17:00 in JST, Tokyo Market",Yen per U.S. Dollar,DAILY,Foreign Exchange Rates,20261119,20261102,149.49
+FXERD04,"US.Dollar/Yen Spot Rate at 17:00 in JST, Tokyo Market",Yen per U.S. Dollar,DAILY,Foreign Exchange Rates,20261119,20261103,null
+FXERD04,"US.Dollar/Yen Spot Rate at 17:00 in JST, Tokyo Market",Yen per U.S. Dollar,DAILY,Foreign Exchange Rates,20261119,20261104,150.00
+FXERD04,"US.Dollar/Yen Spot Rate at 17:00 in JST, Tokyo Market",Yen per U.S. Dollar,DAILY,Foreign Exchange Rates,20261119,20261105,150.51
+FXERD04,"US.Dollar/Yen Spot Rate at 17:00 in JST, Tokyo Market",Yen per U.S. Dollar,DAILY,Foreign Exchange Rates,20261119,20261106,149.83
+FXERD04,"US.Dollar/Yen Spot Rate at 17:00 in JST, Tokyo Market",Yen per U.S. Dollar,DAILY,Foreign Exchange Rates,20261119,20261107,null
+FXERD04,"US.Dollar/Yen Spot Rate at 17:00 in JST, Tokyo Market",Yen per U.S. Dollar,DAILY,Foreign Exchange Rates,20261119,20261108,null
+FXERD04,"US.Dollar/Yen Spot Rate at 17:00 in JST, Tokyo Market",Yen per U.S. Dollar,DAILY,Foreign Exchange Rates,20261119,20261109,150.34
+FXERD04,"US.Dollar/Yen Spot Rate at 17:00 in JST, Tokyo Market",Yen per U.S. Dollar,DAILY,Foreign Exchange Rates,20261119,20261110,149.66
+FXERD04,"US.Dollar/Yen Spot Rate at 17:00 in JST, Tokyo Market",Yen per U.S. Dollar,DAILY,Foreign Exchange Rates,20261119,20261111,150.17
+FXERD04,"US.Dollar/Yen Spot Rate at 17:00 in JST, Tokyo Market",Yen per U.S. Dollar,DAILY,Foreign Exchange Rates,20261119,20261112,149.49
+FXERD04,"US.Dollar/Yen Spot Rate at 17:00 in JST, Tokyo Market",Yen per U.S. Dollar,DAILY,Foreign Exchange Rates,20261119,20261113,150.00
+FXERD04,"US.Dollar/Yen Spot Rate at 17:00 in JST, Tokyo Market",Yen per U.S. Dollar,DAILY,Foreign Exchange Rates,20261119,20261114,null
+FXERD04,"US.Dollar/Yen Spot Rate at 17:00 in JST, Tokyo Market",Yen per U.S. Dollar,DAILY,Foreign Exchange Rates,20261119,20261115,null
+FXERD04,"US.Dollar/Yen Spot Rate at 17:00 in JST, Tokyo Market",Yen per U.S. Dollar,DAILY,Foreign Exchange Rates,20261119,20261116,150.51
+FXERD04,"US.Dollar/Yen Spot Rate at 17:00 in JST, Tokyo Market",Yen per U.S. Dollar,DAILY,Foreign Exchange Rates,20261119,20261117,149.83
+FXERD04,"US.Dollar/Yen Spot Rate at 17:00 in JST, Tokyo Market",Yen per U.S. Dollar,DAILY,Foreign Exchange Rates,20261119,20261118,null
+FXERD04,"US.Dollar/Yen Spot Rate at 17:00 in JST, Tokyo Market",Yen per U.S. Dollar,DAILY,Foreign Exchange Rates,20261119,20261119,null
+FXERD04,"US.Dollar/Yen Spot Rate at 17:00 in JST, Tokyo Market",Yen per U.S. Dollar,DAILY,Foreign Exchange Rates,20261119,20261120,null
+FXERD04,"US.Dollar/Yen Spot Rate at 17:00 in JST, Tokyo Market",Yen per U.S. Dollar,DAILY,Foreign Exchange Rates,20261119,20261121,null
+FXERD04,"US.Dollar/Yen Spot Rate at 17:00 in JST, Tokyo Market",Yen per U.S. Dollar,DAILY,Foreign Exchange Rates,20261119,20261122,null
+FXERD04,"US.Dollar/Yen Spot Rate at 17:00 in JST, Tokyo Market",Yen per U.S. Dollar,DAILY,Foreign Exchange Rates,20261119,20261123,null
+FXERD04,"US.Dollar/Yen Spot Rate at 17:00 in JST, Tokyo Market",Yen per U.S. Dollar,DAILY,Foreign Exchange Rates,20261119,20261124,null
+FXERD04,"US.Dollar/Yen Spot Rate at 17:00 in JST, Tokyo Market",Yen per U.S. Dollar,DAILY,Foreign Exchange Rates,20261119,20261125,null
+FXERD04,"US.Dollar/Yen Spot Rate at 17:00 in JST, Tokyo Market",Yen per U.S. Dollar,DAILY,Foreign Exchange Rates,20261119,20261126,null
+FXERD04,"US.Dollar/Yen Spot Rate at 17:00 in JST, Tokyo Market",Yen per U.S. Dollar,DAILY,Foreign Exchange Rates,20261119,20261127,null
+FXERD04,"US.Dollar/Yen Spot Rate at 17:00 in JST, Tokyo Market",Yen per U.S. Dollar,DAILY,Foreign Exchange Rates,20261119,20261128,null
+FXERD04,"US.Dollar/Yen Spot Rate at 17:00 in JST, Tokyo Market",Yen per U.S. Dollar,DAILY,Foreign Exchange Rates,20261119,20261129,null
+FXERD04,"US.Dollar/Yen Spot Rate at 17:00 in JST, Tokyo Market",Yen per U.S. Dollar,DAILY,Foreign Exchange Rates,20261119,20261130,null
+FXERD34,"Euro/US.Dollar as of 17:00 in JST, Tokyo Market",U.S. Dollar per Euro,DAILY,Foreign Exchange Rates,20261119,20261001,1.1461
+FXERD34,"Euro/US.Dollar as of 17:00 in JST, Tokyo Market",U.S. Dollar per Euro,DAILY,Foreign Exchange Rates,20261119,20261002,1.1500
+FXERD34,"Euro/US.Dollar as of 17:00 in JST, Tokyo Market",U.S. Dollar per Euro,DAILY,Foreign Exchange Rates,20261119,20261003,null
+FXERD34,"Euro/US.Dollar as of 17:00 in JST, Tokyo Market",U.S. Dollar per Euro,DAILY,Foreign Exchange Rates,20261119,20261004,null
+FXERD34,"Euro/US.Dollar as of 17:00 in JST, Tokyo Market",U.S. Dollar per Euro,DAILY,Foreign Exchange Rates,20261119,20261005,1.1539
+FXERD34,"Euro/US.Dollar as of 17:00 in JST, Tokyo Market",U.S. Dollar per Euro,DAILY,Foreign Exchange Rates,20261119,20261006,1.1487
+FXERD34,"Euro/US.Dollar as of 17:00 in JST, Tokyo Market",U.S. Dollar per Euro,DAILY,Foreign Exchange Rates,20261119,20261007,1.1526
+FXERD34,"Euro/US.Dollar as of 17:00 in JST, Tokyo Market",U.S. Dollar per Euro,DAILY,Foreign Exchange Rates,20261119,20261008,1.1474
+FXERD34,"Euro/US.Dollar as of 17:00 in JST, Tokyo Market",U.S. Dollar per Euro,DAILY,Foreign Exchange Rates,20261119,20261009,1.1513
+FXERD34,"Euro/US.Dollar as of 17:00 in JST, Tokyo Market",U.S. Dollar per Euro,DAILY,Foreign Exchange Rates,20261119,20261010,null
+FXERD34,"Euro/US.Dollar as of 17:00 in JST, Tokyo Market",U.S. Dollar per Euro,DAILY,Foreign Exchange Rates,20261119,20261011,null
+FXERD34,"Euro/US.Dollar as of 17:00 in JST, Tokyo Market",U.S. Dollar per Euro,DAILY,Foreign Exchange Rates,20261119,20261012,null
+FXERD34,"Euro/US.Dollar as of 17:00 in JST, Tokyo Market",U.S. Dollar per Euro,DAILY,Foreign Exchange Rates,20261119,20261013,1.1461
+FXERD34,"Euro/US.Dollar as of 17:00 in JST, Tokyo Market",U.S. Dollar per Euro,DAILY,Foreign Exchange Rates,20261119,20261014,1.1500
+FXERD34,"Euro/US.Dollar as of 17:00 in JST, Tokyo Market",U.S. Dollar per Euro,DAILY,Foreign Exchange Rates,20261119,20261015,1.1539
+FXERD34,"Euro/US.Dollar as of 17:00 in JST, Tokyo Market",U.S. Dollar per Euro,DAILY,Foreign Exchange Rates,20261119,20261016,1.1487
+FXERD34,"Euro/US.Dollar as of 17:00 in JST, Tokyo Market",U.S. Dollar per Euro,DAILY,Foreign Exchange Rates,20261119,20261017,null
+FXERD34,"Euro/US.Dollar as of 17:00 in JST, Tokyo Market",U.S. Dollar per Euro,DAILY,Foreign Exchange Rates,20261119,20261018,null
+FXERD34,"Euro/US.Dollar as of 17:00 in JST, Tokyo Market",U.S. Dollar per Euro,DAILY,Foreign Exchange Rates,20261119,20261019,1.1526
+FXERD34,"Euro/US.Dollar as of 17:00 in JST, Tokyo Market",U.S. Dollar per Euro,DAILY,Foreign Exchange Rates,20261119,20261020,1.1474
+FXERD34,"Euro/US.Dollar as of 17:00 in JST, Tokyo Market",U.S. Dollar per Euro,DAILY,Foreign Exchange Rates,20261119,20261021,1.1513
+FXERD34,"Euro/US.Dollar as of 17:00 in JST, Tokyo Market",U.S. Dollar per Euro,DAILY,Foreign Exchange Rates,20261119,20261022,1.1461
+FXERD34,"Euro/US.Dollar as of 17:00 in JST, Tokyo Market",U.S. Dollar per Euro,DAILY,Foreign Exchange Rates,20261119,20261023,1.1500
+FXERD34,"Euro/US.Dollar as of 17:00 in JST, Tokyo Market",U.S. Dollar per Euro,DAILY,Foreign Exchange Rates,20261119,20261024,null
+FXERD34,"Euro/US.Dollar as of 17:00 in JST, Tokyo Market",U.S. Dollar per Euro,DAILY,Foreign Exchange Rates,20261119,20261025,null
+FXERD34,"Euro/US.Dollar as of 17:00 in JST, Tokyo Market",U.S. Dollar per Euro,DAILY,Foreign Exchange Rates,20261119,20261026,1.1539
+FXERD34,"Euro/US.Dollar as of 17:00 in JST, Tokyo Market",U.S. Dollar per Euro,DAILY,Foreign Exchange Rates,20261119,20261027,1.1487
+FXERD34,"Euro/US.Dollar as of 17:00 in JST, Tokyo Market",U.S. Dollar per Euro,DAILY,Foreign Exchange Rates,20261119,20261028,1.1526
+FXERD34,"Euro/US.Dollar as of 17:00 in JST, Tokyo Market",U.S. Dollar per Euro,DAILY,Foreign Exchange Rates,20261119,20261029,1.1474
+FXERD34,"Euro/US.Dollar as of 17:00 in JST, Tokyo Market",U.S. Dollar per Euro,DAILY,Foreign Exchange Rates,20261119,20261030,1.1513
+FXERD34,"Euro/US.Dollar as of 17:00 in JST, Tokyo Market",U.S. Dollar per Euro,DAILY,Foreign Exchange Rates,20261119,20261031,null
+FXERD34,"Euro/US.Dollar as of 17:00 in JST, Tokyo Market",U.S. Dollar per Euro,DAILY,Foreign Exchange Rates,20261119,20261101,null
+FXERD34,"Euro/US.Dollar as of 17:00 in JST, Tokyo Market",U.S. Dollar per Euro,DAILY,Foreign Exchange Rates,20261119,20261102,1.1461
+FXERD34,"Euro/US.Dollar as of 17:00 in JST, Tokyo Market",U.S. Dollar per Euro,DAILY,Foreign Exchange Rates,20261119,20261103,null
+FXERD34,"Euro/US.Dollar as of 17:00 in JST, Tokyo Market",U.S. Dollar per Euro,DAILY,Foreign Exchange Rates,20261119,20261104,1.1500
+FXERD34,"Euro/US.Dollar as of 17:00 in JST, Tokyo Market",U.S. Dollar per Euro,DAILY,Foreign Exchange Rates,20261119,20261105,1.1539
+FXERD34,"Euro/US.Dollar as of 17:00 in JST, Tokyo Market",U.S. Dollar per Euro,DAILY,Foreign Exchange Rates,20261119,20261106,1.1487
+FXERD34,"Euro/US.Dollar as of 17:00 in JST, Tokyo Market",U.S. Dollar per Euro,DAILY,Foreign Exchange Rates,20261119,20261107,null
+FXERD34,"Euro/US.Dollar as of 17:00 in JST, Tokyo Market",U.S. Dollar per Euro,DAILY,Foreign Exchange Rates,20261119,20261108,null
+FXERD34,"Euro/US.Dollar as of 17:00 in JST, Tokyo Market",U.S. Dollar per Euro,DAILY,Foreign Exchange Rates,20261119,20261109,1.1526
+FXERD34,"Euro/US.Dollar as of 17:00 in JST, Tokyo Market",U.S. Dollar per Euro,DAILY,Foreign Exchange Rates,20261119,20261110,1.1474
+FXERD34,"Euro/US.Dollar as of 17:00 in JST, Tokyo Market",U.S. Dollar per Euro,DAILY,Foreign Exchange Rates,20261119,20261111,1.1513
+FXERD34,"Euro/US.Dollar as of 17:00 in JST, Tokyo Market",U.S. Dollar per Euro,DAILY,Foreign Exchange Rates,20261119,20261112,1.1461
+FXERD34,"Euro/US.Dollar as of 17:00 in JST, Tokyo Market",U.S. Dollar per Euro,DAILY,Foreign Exchange Rates,20261119,20261113,1.1500
+FXERD34,"Euro/US.Dollar as of 17:00 in JST, Tokyo Market",U.S. Dollar per Euro,DAILY,Foreign Exchange Rates,20261119,20261114,null
+FXERD34,"Euro/US.Dollar as of 17:00 in JST, Tokyo Market",U.S. Dollar per Euro,DAILY,Foreign Exchange Rates,20261119,20261115,null
+FXERD34,"Euro/US.Dollar as of 17:00 in JST, Tokyo Market",U.S. Dollar per Euro,DAILY,Foreign Exchange Rates,20261119,20261116,1.1539
+FXERD34,"Euro/US.Dollar as of 17:00 in JST, Tokyo Market",U.S. Dollar per Euro,DAILY,Foreign Exchange Rates,20261119,20261117,1.1487
+FXERD34,"Euro/US.Dollar as of 17:00 in JST, Tokyo Market",U.S. Dollar per Euro,DAILY,Foreign Exchange Rates,20261119,20261118,null
+FXERD34,"Euro/US.Dollar as of 17:00 in JST, Tokyo Market",U.S. Dollar per Euro,DAILY,Foreign Exchange Rates,20261119,20261119,null
+FXERD34,"Euro/US.Dollar as of 17:00 in JST, Tokyo Market",U.S. Dollar per Euro,DAILY,Foreign Exchange Rates,20261119,20261120,null
+FXERD34,"Euro/US.Dollar as of 17:00 in JST, Tokyo Market",U.S. Dollar per Euro,DAILY,Foreign Exchange Rates,20261119,20261121,null
+FXERD34,"Euro/US.Dollar as of 17:00 in JST, Tokyo Market",U.S. Dollar per Euro,DAILY,Foreign Exchange Rates,20261119,20261122,null
+FXERD34,"Euro/US.Dollar as of 17:00 in JST, Tokyo Market",U.S. Dollar per Euro,DAILY,Foreign Exchange Rates,20261119,20261123,null
+FXERD34,"Euro/US.Dollar as of 17:00 in JST, Tokyo Market",U.S. Dollar per Euro,DAILY,Foreign Exchange Rates,20261119,20261124,null
+FXERD34,"Euro/US.Dollar as of 17:00 in JST, Tokyo Market",U.S. Dollar per Euro,DAILY,Foreign Exchange Rates,20261119,20261125,null
+FXERD34,"Euro/US.Dollar as of 17:00 in JST, Tokyo Market",U.S. Dollar per Euro,DAILY,Foreign Exchange Rates,20261119,20261126,null
+FXERD34,"Euro/US.Dollar as of 17:00 in JST, Tokyo Market",U.S. Dollar per Euro,DAILY,Foreign Exchange Rates,20261119,20261127,null
+FXERD34,"Euro/US.Dollar as of 17:00 in JST, Tokyo Market",U.S. Dollar per Euro,DAILY,Foreign Exchange Rates,20261119,20261128,null
+FXERD34,"Euro/US.Dollar as of 17:00 in JST, Tokyo Market",U.S. Dollar per Euro,DAILY,Foreign Exchange Rates,20261119,20261129,null
+FXERD34,"Euro/US.Dollar as of 17:00 in JST, Tokyo Market",U.S. Dollar per Euro,DAILY,Foreign Exchange Rates,20261119,20261130,null

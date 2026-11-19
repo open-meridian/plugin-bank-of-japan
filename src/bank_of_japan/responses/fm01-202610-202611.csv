@@ -1,0 +1,134 @@
+STATUS,200
+MESSAGEID,M181000I
+MESSAGE,Successfully completed
+DATE,2026-11-19T09:30:00.000+09:00
+PARAMETER,FORMAT,CSV
+PARAMETER,LANG,EN
+PARAMETER,DB,FM01
+PARAMETER,STARTDATE,202610
+PARAMETER,ENDDATE,202611
+PARAMETER,STARTPOSITION,
+NEXTPOSITION,
+SERIES_CODE,NAME_OF_TIME_SERIES,UNIT,FREQUENCY,CATEGORY,LAST_UPDATE,SURVEY_DATES,VALUES
+STRDCLUCON,"Call Rate, Uncollateralized Overnight, Average (Daily)",percent per annum,DAILY,Call Rate,20261119,20261001,0.477
+STRDCLUCON,"Call Rate, Uncollateralized Overnight, Average (Daily)",percent per annum,DAILY,Call Rate,20261119,20261002,0.480
+STRDCLUCON,"Call Rate, Uncollateralized Overnight, Average (Daily)",percent per annum,DAILY,Call Rate,20261119,20261003,null
+STRDCLUCON,"Call Rate, Uncollateralized Overnight, Average (Daily)",percent per annum,DAILY,Call Rate,20261119,20261004,null
+STRDCLUCON,"Call Rate, Uncollateralized Overnight, Average (Daily)",percent per annum,DAILY,Call Rate,20261119,20261005,0.483
+STRDCLUCON,"Call Rate, Uncollateralized Overnight, Average (Daily)",percent per annum,DAILY,Call Rate,20261119,20261006,0.479
+STRDCLUCON,"Call Rate, Uncollateralized Overnight, Average (Daily)",percent per annum,DAILY,Call Rate,20261119,20261007,0.482
+STRDCLUCON,"Call Rate, Uncollateralized Overnight, Average (Daily)",percent per annum,DAILY,Call Rate,20261119,20261008,0.478
+STRDCLUCON,"Call Rate, Uncollateralized Overnight, Average (Daily)",percent per annum,DAILY,Call Rate,20261119,20261009,0.481
+STRDCLUCON,"Call Rate, Uncollateralized Overnight, Average (Daily)",percent per annum,DAILY,Call Rate,20261119,20261010,null
+STRDCLUCON,"Call Rate, Uncollateralized Overnight, Average (Daily)",percent per annum,DAILY,Call Rate,20261119,20261011,null
+STRDCLUCON,"Call Rate, Uncollateralized Overnight, Average (Daily)",percent per annum,DAILY,Call Rate,20261119,20261012,null
+STRDCLUCON,"Call Rate, Uncollateralized Overnight, Average (Daily)",percent per annum,DAILY,Call Rate,20261119,20261013,0.477
+STRDCLUCON,"Call Rate, Uncollateralized Overnight, Average (Daily)",percent per annum,DAILY,Call Rate,20261119,20261014,0.480
+STRDCLUCON,"Call Rate, Uncollateralized Overnight, Average (Daily)",percent per annum,DAILY,Call Rate,20261119,20261015,0.483
+STRDCLUCON,"Call Rate, Uncollateralized Overnight, Average (Daily)",percent per annum,DAILY,Call Rate,20261119,20261016,0.479
+STRDCLUCON,"Call Rate, Uncollateralized Overnight, Average (Daily)",percent per annum,DAILY,Call Rate,20261119,20261017,null
+STRDCLUCON,"Call Rate, Uncollateralized Overnight, Average (Daily)",percent per annum,DAILY,Call Rate,20261119,20261018,null
+STRDCLUCON,"Call Rate, Uncollateralized Overnight, Average (Daily)",percent per annum,DAILY,Call Rate,20261119,20261019,0.482
+STRDCLUCON,"Call Rate, Uncollateralized Overnight, Average (Daily)",percent per annum,DAILY,Call Rate,20261119,20261020,0.478
+STRDCLUCON,"Call Rate, Uncollateralized Overnight, Average (Daily)",percent per annum,DAILY,Call Rate,20261119,20261021,0.481
+STRDCLUCON,"Call Rate, Uncollateralized Overnight, Average (Daily)",percent per annum,DAILY,Call Rate,20261119,20261022,0.477
+STRDCLUCON,"Call Rate, Uncollateralized Overnight, Average (Daily)",percent per annum,DAILY,Call Rate,20261119,20261023,0.480
+STRDCLUCON,"Call Rate, Uncollateralized Overnight, Average (Daily)",percent per annum,DAILY,Call Rate,20261119,20261024,null
+STRDCLUCON,"Call Rate, Uncollateralized Overnight, Average (Daily)",percent per annum,DAILY,Call Rate,20261119,20261025,null
+STRDCLUCON,"Call Rate, Uncollateralized Overnight, Average (Daily)",percent per annum,DAILY,Call Rate,20261119,20261026,0.483
+STRDCLUCON,"Call Rate, Uncollateralized Overnight, Average (Daily)",percent per annum,DAILY,Call Rate,20261119,20261027,0.479
+STRDCLUCON,"Call Rate, Uncollateralized Overnight, Average (Daily)",percent per annum,DAILY,Call Rate,20261119,20261028,0.482
+STRDCLUCON,"Call Rate, Uncollateralized Overnight, Average (Daily)",percent per annum,DAILY,Call Rate,20261119,20261029,0.478
+STRDCLUCON,"Call Rate, Uncollateralized Overnight, Average (Daily)",percent per annum,DAILY,Call Rate,20261119,20261030,0.481
+STRDCLUCON,"Call Rate, Uncollateralized Overnight, Average (Daily)",percent per annum,DAILY,Call Rate,20261119,20261031,null
+STRDCLUCON,"Call Rate, Uncollateralized Overnight, Average (Daily)",percent per annum,DAILY,Call Rate,20261119,20261101,null
+STRDCLUCON,"Call Rate, Uncollateralized Overnight, Average (Daily)",percent per annum,DAILY,Call Rate,20261119,20261102,0.477
+STRDCLUCON,"Call Rate, Uncollateralized Overnight, Average (Daily)",percent per annum,DAILY,Call Rate,20261119,20261103,null
+STRDCLUCON,"Call Rate, Uncollateralized Overnight, Average (Daily)",percent per annum,DAILY,Call Rate,20261119,20261104,0.480
+STRDCLUCON,"Call Rate, Uncollateralized Overnight, Average (Daily)",percent per annum,DAILY,Call Rate,20261119,20261105,0.483
+STRDCLUCON,"Call Rate, Uncollateralized Overnight, Average (Daily)",percent per annum,DAILY,Call Rate,20261119,20261106,0.479
+STRDCLUCON,"Call Rate, Uncollateralized Overnight, Average (Daily)",percent per annum,DAILY,Call Rate,20261119,20261107,null
+STRDCLUCON,"Call Rate, Uncollateralized Overnight, Average (Daily)",percent per annum,DAILY,Call Rate,20261119,20261108,null
+STRDCLUCON,"Call Rate, Uncollateralized Overnight, Average (Daily)",percent per annum,DAILY,Call Rate,20261119,20261109,0.482
+STRDCLUCON,"Call Rate, Uncollateralized Overnight, Average (Daily)",percent per annum,DAILY,Call Rate,20261119,20261110,0.478
+STRDCLUCON,"Call Rate, Uncollateralized Overnight, Average (Daily)",percent per annum,DAILY,Call Rate,20261119,20261111,0.481
+STRDCLUCON,"Call Rate, Uncollateralized Overnight, Average (Daily)",percent per annum,DAILY,Call Rate,20261119,20261112,0.477
+STRDCLUCON,"Call Rate, Uncollateralized Overnight, Average (Daily)",percent per annum,DAILY,Call Rate,20261119,20261113,0.480
+STRDCLUCON,"Call Rate, Uncollateralized Overnight, Average (Daily)",percent per annum,DAILY,Call Rate,20261119,20261114,null
+STRDCLUCON,"Call Rate, Uncollateralized Overnight, Average (Daily)",percent per annum,DAILY,Call Rate,20261119,20261115,null
+STRDCLUCON,"Call Rate, Uncollateralized Overnight, Average (Daily)",percent per annum,DAILY,Call Rate,20261119,20261116,0.483
+STRDCLUCON,"Call Rate, Uncollateralized Overnight, Average (Daily)",percent per annum,DAILY,Call Rate,20261119,20261117,0.479
+STRDCLUCON,"Call Rate, Uncollateralized Overnight, Average (Daily)",percent per annum,DAILY,Call Rate,20261119,20261118,null
+STRDCLUCON,"Call Rate, Uncollateralized Overnight, Average (Daily)",percent per annum,DAILY,Call Rate,20261119,20261119,null
+STRDCLUCON,"Call Rate, Uncollateralized Overnight, Average (Daily)",percent per annum,DAILY,Call Rate,20261119,20261120,null
+STRDCLUCON,"Call Rate, Uncollateralized Overnight, Average (Daily)",percent per annum,DAILY,Call Rate,20261119,20261121,null
+STRDCLUCON,"Call Rate, Uncollateralized Overnight, Average (Daily)",percent per annum,DAILY,Call Rate,20261119,20261122,null
+STRDCLUCON,"Call Rate, Uncollateralized Overnight, Average (Daily)",percent per annum,DAILY,Call Rate,20261119,20261123,null
+STRDCLUCON,"Call Rate, Uncollateralized Overnight, Average (Daily)",percent per annum,DAILY,Call Rate,20261119,20261124,null
+STRDCLUCON,"Call Rate, Uncollateralized Overnight, Average (Daily)",percent per annum,DAILY,Call Rate,20261119,20261125,null
+STRDCLUCON,"Call Rate, Uncollateralized Overnight, Average (Daily)",percent per annum,DAILY,Call Rate,20261119,20261126,null
+STRDCLUCON,"Call Rate, Uncollateralized Overnight, Average (Daily)",percent per annum,DAILY,Call Rate,20261119,20261127,null
+STRDCLUCON,"Call Rate, Uncollateralized Overnight, Average (Daily)",percent per annum,DAILY,Call Rate,20261119,20261128,null
+STRDCLUCON,"Call Rate, Uncollateralized Overnight, Average (Daily)",percent per annum,DAILY,Call Rate,20261119,20261129,null
+STRDCLUCON,"Call Rate, Uncollateralized Overnight, Average (Daily)",percent per annum,DAILY,Call Rate,20261119,20261130,null
+STRDCLUCV,Volumes of Uncollateralized Overnight Call Transactions,100 million yen,DAILY,Volumes of Uncollateralized Overnight Call Transactions,20261119,20261001,20589
+STRDCLUCV,Volumes of Uncollateralized Overnight Call Transactions,100 million yen,DAILY,Volumes of Uncollateralized Overnight Call Transactions,20261119,20261002,21000
+STRDCLUCV,Volumes of Uncollateralized Overnight Call Transactions,100 million yen,DAILY,Volumes of Uncollateralized Overnight Call Transactions,20261119,20261003,null
+STRDCLUCV,Volumes of Uncollateralized Overnight Call Transactions,100 million yen,DAILY,Volumes of Uncollateralized Overnight Call Transactions,20261119,20261004,null
+STRDCLUCV,Volumes of Uncollateralized Overnight Call Transactions,100 million yen,DAILY,Volumes of Uncollateralized Overnight Call Transactions,20261119,20261005,21411
+STRDCLUCV,Volumes of Uncollateralized Overnight Call Transactions,100 million yen,DAILY,Volumes of Uncollateralized Overnight Call Transactions,20261119,20261006,20863
+STRDCLUCV,Volumes of Uncollateralized Overnight Call Transactions,100 million yen,DAILY,Volumes of Uncollateralized Overnight Call Transactions,20261119,20261007,21274
+STRDCLUCV,Volumes of Uncollateralized Overnight Call Transactions,100 million yen,DAILY,Volumes of Uncollateralized Overnight Call Transactions,20261119,20261008,20726
+STRDCLUCV,Volumes of Uncollateralized Overnight Call Transactions,100 million yen,DAILY,Volumes of Uncollateralized Overnight Call Transactions,20261119,20261009,21137
+STRDCLUCV,Volumes of Uncollateralized Overnight Call Transactions,100 million yen,DAILY,Volumes of Uncollateralized Overnight Call Transactions,20261119,20261010,null
+STRDCLUCV,Volumes of Uncollateralized Overnight Call Transactions,100 million yen,DAILY,Volumes of Uncollateralized Overnight Call Transactions,20261119,20261011,null
+STRDCLUCV,Volumes of Uncollateralized Overnight Call Transactions,100 million yen,DAILY,Volumes of Uncollateralized Overnight Call Transactions,20261119,20261012,null
+STRDCLUCV,Volumes of Uncollateralized Overnight Call Transactions,100 million yen,DAILY,Volumes of Uncollateralized Overnight Call Transactions,20261119,20261013,20589
+STRDCLUCV,Volumes of Uncollateralized Overnight Call Transactions,100 million yen,DAILY,Volumes of Uncollateralized Overnight Call Transactions,20261119,20261014,21000
+STRDCLUCV,Volumes of Uncollateralized Overnight Call Transactions,100 million yen,DAILY,Volumes of Uncollateralized Overnight Call Transactions,20261119,20261015,21411
+STRDCLUCV,Volumes of Uncollateralized Overnight Call Transactions,100 million yen,DAILY,Volumes of Uncollateralized Overnight Call Transactions,20261119,20261016,20863
+STRDCLUCV,Volumes of Uncollateralized Overnight Call Transactions,100 million yen,DAILY,Volumes of Uncollateralized Overnight Call Transactions,20261119,20261017,null
+STRDCLUCV,Volumes of Uncollateralized Overnight Call Transactions,100 million yen,DAILY,Volumes of Uncollateralized Overnight Call Transactions,20261119,20261018,null
+STRDCLUCV,Volumes of Uncollateralized Overnight Call Transactions,100 million yen,DAILY,Volumes of Uncollateralized Overnight Call Transactions,20261119,20261019,21274
+STRDCLUCV,Volumes of Uncollateralized Overnight Call Transactions,100 million yen,DAILY,Volumes of Uncollateralized Overnight Call Transactions,20261119,20261020,20726
+STRDCLUCV,Volumes of Uncollateralized Overnight Call Transactions,100 million yen,DAILY,Volumes of Uncollateralized Overnight Call Transactions,20261119,20261021,21137
+STRDCLUCV,Volumes of Uncollateralized Overnight Call Transactions,100 million yen,DAILY,Volumes of Uncollateralized Overnight Call Transactions,20261119,20261022,20589
+STRDCLUCV,Volumes of Uncollateralized Overnight Call Transactions,100 million yen,DAILY,Volumes of Uncollateralized Overnight Call Transactions,20261119,20261023,21000
+STRDCLUCV,Volumes of Uncollateralized Overnight Call Transactions,100 million yen,DAILY,Volumes of Uncollateralized Overnight Call Transactions,20261119,20261024,null
+STRDCLUCV,Volumes of Uncollateralized Overnight Call Transactions,100 million yen,DAILY,Volumes of Uncollateralized Overnight Call Transactions,20261119,20261025,null
+STRDCLUCV,Volumes of Uncollateralized Overnight Call Transactions,100 million yen,DAILY,Volumes of Uncollateralized Overnight Call Transactions,20261119,20261026,21411
+STRDCLUCV,Volumes of Uncollateralized Overnight Call Transactions,100 million yen,DAILY,Volumes of Uncollateralized Overnight Call Transactions,20261119,20261027,20863
+STRDCLUCV,Volumes of Uncollateralized Overnight Call Transactions,100 million yen,DAILY,Volumes of Uncollateralized Overnight Call Transactions,20261119,20261028,21274
+STRDCLUCV,Volumes of Uncollateralized Overnight Call Transactions,100 million yen,DAILY,Volumes of Uncollateralized Overnight Call Transactions,20261119,20261029,20726
+STRDCLUCV,Volumes of Uncollateralized Overnight Call Transactions,100 million yen,DAILY,Volumes of Uncollateralized Overnight Call Transactions,20261119,20261030,21137
+STRDCLUCV,Volumes of Uncollateralized Overnight Call Transactions,100 million yen,DAILY,Volumes of Uncollateralized Overnight Call Transactions,20261119,20261031,null
+STRDCLUCV,Volumes of Uncollateralized Overnight Call Transactions,100 million yen,DAILY,Volumes of Uncollateralized Overnight Call Transactions,20261119,20261101,null
+STRDCLUCV,Volumes of Uncollateralized Overnight Call Transactions,100 million yen,DAILY,Volumes of Uncollateralized Overnight Call Transactions,20261119,20261102,20589
+STRDCLUCV,Volumes of Uncollateralized Overnight Call Transactions,100 million yen,DAILY,Volumes of Uncollateralized Overnight Call Transactions,20261119,20261103,null
+STRDCLUCV,Volumes of Uncollateralized Overnight Call Transactions,100 million yen,DAILY,Volumes of Uncollateralized Overnight Call Transactions,20261119,20261104,21000
+STRDCLUCV,Volumes of Uncollateralized Overnight Call Transactions,100 million yen,DAILY,Volumes of Uncollateralized Overnight Call Transactions,20261119,20261105,21411
+STRDCLUCV,Volumes of Uncollateralized Overnight Call Transactions,100 million yen,DAILY,Volumes of Uncollateralized Overnight Call Transactions,20261119,20261106,20863
+STRDCLUCV,Volumes of Uncollateralized Overnight Call Transactions,100 million yen,DAILY,Volumes of Uncollateralized Overnight Call Transactions,20261119,20261107,null
+STRDCLUCV,Volumes of Uncollateralized Overnight Call Transactions,100 million yen,DAILY,Volumes of Uncollateralized Overnight Call Transactions,20261119,20261108,null
+STRDCLUCV,Volumes of Uncollateralized Overnight Call Transactions,100 million yen,DAILY,Volumes of Uncollateralized Overnight Call Transactions,20261119,20261109,21274
+STRDCLUCV,Volumes of Uncollateralized Overnight Call Transactions,100 million yen,DAILY,Volumes of Uncollateralized Overnight Call Transactions,20261119,20261110,20726
+STRDCLUCV,Volumes of Uncollateralized Overnight Call Transactions,100 million yen,DAILY,Volumes of Uncollateralized Overnight Call Transactions,20261119,20261111,21137
+STRDCLUCV,Volumes of Uncollateralized Overnight Call Transactions,100 million yen,DAILY,Volumes of Uncollateralized Overnight Call Transactions,20261119,20261112,20589
+STRDCLUCV,Volumes of Uncollateralized Overnight Call Transactions,100 million yen,DAILY,Volumes of Uncollateralized Overnight Call Transactions,20261119,20261113,21000
+STRDCLUCV,Volumes of Uncollateralized Overnight Call Transactions,100 million yen,DAILY,Volumes of Uncollateralized Overnight Call Transactions,20261119,20261114,null
+STRDCLUCV,Volumes of Uncollateralized Overnight Call Transactions,100 million yen,DAILY,Volumes of Uncollateralized Overnight Call Transactions,20261119,20261115,null
+STRDCLUCV,Volumes of Uncollateralized Overnight Call Transactions,100 million yen,DAILY,Volumes of Uncollateralized Overnight Call Transactions,20261119,20261116,21411
+STRDCLUCV,Volumes of Uncollateralized Overnight Call Transactions,100 million yen,DAILY,Volumes of Uncollateralized Overnight Call Transactions,20261119,20261117,20863
+STRDCLUCV,Volumes of Uncollateralized Overnight Call Transactions,100 million yen,DAILY,Volumes of Uncollateralized Overnight Call Transactions,20261119,20261118,null
+STRDCLUCV,Volumes of Uncollateralized Overnight Call Transactions,100 million yen,DAILY,Volumes of Uncollateralized Overnight Call Transactions,20261119,20261119,null
+STRDCLUCV,Volumes of Uncollateralized Overnight Call Transactions,100 million yen,DAILY,Volumes of Uncollateralized Overnight Call Transactions,20261119,20261120,null
+STRDCLUCV,Volumes of Uncollateralized Overnight Call Transactions,100 million yen,DAILY,Volumes of Uncollateralized Overnight Call Transactions,20261119,20261121,null
+STRDCLUCV,Volumes of Uncollateralized Overnight Call Transactions,100 million yen,DAILY,Volumes of Uncollateralized Overnight Call Transactions,20261119,20261122,null
+STRDCLUCV,Volumes of Uncollateralized Overnight Call Transactions,100 million yen,DAILY,Volumes of Uncollateralized Overnight Call Transactions,20261119,20261123,null
+STRDCLUCV,Volumes of Uncollateralized Overnight Call Transactions,100 million yen,DAILY,Volumes of Uncollateralized Overnight Call Transactions,20261119,20261124,null
+STRDCLUCV,Volumes of Uncollateralized Overnight Call Transactions,100 million yen,DAILY,Volumes of Uncollateralized Overnight Call Transactions,20261119,20261125,null
+STRDCLUCV,Volumes of Uncollateralized Overnight Call Transactions,100 million yen,DAILY,Volumes of Uncollateralized Overnight Call Transactions,20261119,20261126,null
+STRDCLUCV,Volumes of Uncollateralized Overnight Call Transactions,100 million yen,DAILY,Volumes of Uncollateralized Overnight Call Transactions,20261119,20261127,null
+STRDCLUCV,Volumes of Uncollateralized Overnight Call Transactions,100 million yen,DAILY,Volumes of Uncollateralized Overnight Call Transactions,20261119,20261128,null
+STRDCLUCV,Volumes of Uncollateralized Overnight Call Transactions,100 million yen,DAILY,Volumes of Uncollateralized Overnight Call Transactions,20261119,20261129,null
+STRDCLUCV,Volumes of Uncollateralized Overnight Call Transactions,100 million yen,DAILY,Volumes of Uncollateralized Overnight Call Transactions,20261119,20261130,null
