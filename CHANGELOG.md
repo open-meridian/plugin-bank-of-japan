@@ -1,9 +1,5 @@
 # Changelog
 
-## 0.1.1
-
-SDK 0.37.0: waits for a lost sidecar.
-
 ## 0.1.0
 
 On open-meridian 0.36.0, contract 30, on core aae501d's harness. The
@@ -28,3 +24,7 @@ source `boj` are proposed here, the product owner's to approve.
   Records), and the credit the Bank's API notice asks for.
 - **Sample data:** the Bank's layout and days as answered on 2026-11-19,
   every value synthetic (ruling 197).
+
+SDK 0.37.0: waits for a lost sidecar.
+
+SDK 0.37.1: a raw record kept from two threads at once waits instead of being dropped.
